@@ -1,0 +1,11 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	C34	/home/li_gany/HW/hw1_rnaseq/fastqc_results/fastqc_raw/C34_fastqc.zip
+FastQC	all_sections	B14.5	/home/li_gany/HW/hw1_rnaseq/fastqc_results/fastqc_raw/B14.5_fastqc.zip
+FastQC	all_sections	B34	/home/li_gany/HW/hw1_rnaseq/fastqc_results/fastqc_raw/B34_fastqc.zip
+FastQC	all_sections	C20	/home/li_gany/HW/hw1_rnaseq/fastqc_results/fastqc_raw/C20_fastqc.zip
+FastQC	all_sections	C14.5	/home/li_gany/HW/hw1_rnaseq/fastqc_results/fastqc_raw/C14.5_fastqc.zip
+FastQC	all_sections	B17.5	/home/li_gany/HW/hw1_rnaseq/fastqc_results/fastqc_raw/B17.5_fastqc.zip
+FastQC	all_sections	B20	/home/li_gany/HW/hw1_rnaseq/fastqc_results/fastqc_raw/B20_fastqc.zip
+FastQC	all_sections	C17.5	/home/li_gany/HW/hw1_rnaseq/fastqc_results/fastqc_raw/C17.5_fastqc.zip
+FastQC	all_sections	C15.5	/home/li_gany/HW/hw1_rnaseq/fastqc_results/fastqc_raw/C15.5_fastqc.zip
+FastQC	all_sections	B15.5	/home/li_gany/HW/hw1_rnaseq/fastqc_results/fastqc_raw/B15.5_fastqc.zip

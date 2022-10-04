@@ -1,0 +1,11 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_tile_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+B14.5	B14.5.fq.gz	Conventional base calls	Sanger / Illumina 1.9	599672.0	0.0	101.0	49.0	50.087048001328604	101.0	pass	pass	pass	pass	fail	pass	pass	pass	warn	warn	pass
+B15.5	B15.5.fq.gz	Conventional base calls	Sanger / Illumina 1.9	599345.0	0.0	101.0	50.0	59.19133732606885	101.0	pass	pass	fail	pass	fail	pass	pass	pass	warn	pass	pass
+B17.5	B17.5.fq.gz	Conventional base calls	Sanger / Illumina 1.9	600006.0	0.0	101.0	50.0	49.84231933808828	101.0	pass	pass	warn	pass	fail	pass	pass	pass	fail	warn	pass
+B20	B20.fq.gz	Conventional base calls	Sanger / Illumina 1.9	599777.0	0.0	101.0	50.0	51.97630862672771	101.0	pass	pass	warn	pass	fail	pass	pass	pass	warn	pass	pass
+B34	B34.fq.gz	Conventional base calls	Sanger / Illumina 1.9	599683.0	0.0	101.0	50.0	49.18265098503479	101.0	pass	pass	warn	pass	fail	pass	pass	pass	fail	warn	pass
+C14.5	C14.5.fq.gz	Conventional base calls	Sanger / Illumina 1.9	599461.0	0.0	101.0	49.0	54.5666394569864	101.0	pass	pass	warn	pass	fail	pass	pass	pass	warn	pass	pass
+C15.5	C15.5.fq.gz	Conventional base calls	Sanger / Illumina 1.9	600324.0	0.0	101.0	50.0	59.528328524826875	101.0	pass	pass	warn	pass	fail	pass	pass	pass	warn	warn	pass
+C17.5	C17.5.fq.gz	Conventional base calls	Sanger / Illumina 1.9	600268.0	0.0	101.0	51.0	46.85323025721999	101.0	pass	pass	pass	pass	fail	warn	pass	pass	fail	warn	pass
+C20	C20.fq.gz	Conventional base calls	Sanger / Illumina 1.9	600133.0	0.0	101.0	50.0	53.350580492322194	101.0	pass	pass	pass	pass	fail	pass	pass	pass	warn	pass	pass
+C34	C34.fq.gz	Conventional base calls	Sanger / Illumina 1.9	599414.0	0.0	101.0	49.0	55.85908200930355	101.0	pass	pass	pass	pass	fail	warn	pass	pass	warn	warn	pass

@@ -1,0 +1,5 @@
+*.ht2
+chr19/
+FastQC/
+B15/
+*.gz
